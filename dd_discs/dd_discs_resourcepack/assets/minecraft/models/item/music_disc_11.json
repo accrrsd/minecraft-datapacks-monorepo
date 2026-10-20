@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/music_disc_11"
+    },
+    "overrides": 
+    [
+        { "predicate": { "custom_model_data": 369001}, "model": "custom_m/creepy"},
+        { "predicate": { "custom_model_data": 369002}, "model": "custom_m/they_stare_back"},
+        { "predicate": { "custom_model_data": 369003}, "model": "custom_m/white_void"}
+    ]
+}

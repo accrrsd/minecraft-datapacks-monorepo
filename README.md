@@ -1,6 +1,6 @@
-# Minecraft Datapacks Monorepo — Version 1.21.5
+# Minecraft Datapacks Monorepo — Version 1.21.1
 
-This branch contains datapacks and resourcepacks formatted for **Minecraft 1.21.5** (Data Pack format `71`, Resource Pack format `46`).
+This branch contains datapacks and resourcepacks formatted for **Minecraft 1.21 - 1.21.1** (Data Pack format `48`, Resource Pack format `46`).
 
 ## Included Packs
 

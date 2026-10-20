@@ -9,23 +9,32 @@
   ],
   "key": {
     "P": [
-      "minecraft:music_disc_11"
+      {
+        "item": "minecraft:music_disc_11"
+      }
     ],
     "L": [
-      "minecraft:sea_lantern"
+      {
+        "item": "minecraft:sea_lantern"
+      }
     ],
     "Q": [
-      "minecraft:quartz_block"
+      {
+        "item": "minecraft:quartz_block"
+      }
     ],
-    "q": [
-      "minecraft:amethyst_shard"
-    ]
+    "q": {
+      "item": "minecraft:amethyst_shard"
+    }
   },
   "result": {
     "id": "minecraft:music_disc_11",
     "components": {
-      "minecraft:item_model": "dd_discs:white_void",
-      "minecraft:jukebox_playable": "dd_discs_data:white_void"
+      "minecraft:custom_model_data": 369003,
+      "minecraft:jukebox_playable": {
+        "song": "dd_discs_data:white_void",
+        "show_in_tooltip": true
+      }
     }
   }
 }
