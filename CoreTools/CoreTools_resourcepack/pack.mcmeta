@@ -1,0 +1,22 @@
+{
+  "pack": {
+    "description": [
+      [
+        {
+          "text": "Core Tools Resource Pack",
+          "color": "#ffaa00"
+        }
+      ]
+    ],
+    "pack_format": 97,
+    "min_format": [
+      97,
+      1
+    ],
+    "max_format": [
+      97,
+      1
+    ]
+  },
+  "id": "core-tools-rp"
+}

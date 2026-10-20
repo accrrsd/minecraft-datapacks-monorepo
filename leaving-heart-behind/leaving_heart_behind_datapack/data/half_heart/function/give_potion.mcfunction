@@ -1,0 +1,2 @@
+# Gives Health Restoration Potion (+8 HP / 4 hearts)
+give @s potion[item_model="half_heart:health_potion",custom_data={half_heart_item:"potion"},potion_contents={custom_color:16711680},item_name='{"text":"Зелье Восстановления Сердец","color":"red","bold":true}',lore=['{"text":"Восстанавливает до 8 HP (4 сердца)","color":"gray"}','{"text":"Действует в пределах лимита зелий!","color":"dark_purple","italic":true}']] 1

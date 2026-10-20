@@ -1,0 +1,15 @@
+{
+  "pack": {
+    "description": "Dimension Doors discs resourcepack",
+    "pack_format": 97,
+    "min_format": [
+      97,
+      1
+    ],
+    "max_format": [
+      97,
+      1
+    ]
+  },
+  "id": "dd-discs-rp"
+}

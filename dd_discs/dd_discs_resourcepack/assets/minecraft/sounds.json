@@ -1,0 +1,23 @@
+{
+	"dd_discs.they_stare_back":{
+		"sounds":[
+			{
+			"name":"records/they_stare_back"
+			}
+		]
+	},
+	"dd_discs.white_void":{
+		"sounds":[
+			{
+			"name":"records/white_void"
+			}
+		]
+	},
+	"dd_discs.creepy":{
+		"sounds":[
+			{
+			"name":"records/creepy_faded"
+			}
+		]
+	}
+}

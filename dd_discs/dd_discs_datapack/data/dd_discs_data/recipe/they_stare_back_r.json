@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RER",
+    "CPC",
+    "TCT"
+  ],
+  "key": {
+    "P": [
+      "minecraft:music_disc_11"
+    ],
+    "E": [
+      "minecraft:ender_eye"
+    ],
+    "C": [
+      "minecraft:black_concrete"
+    ],
+    "R": [
+      "minecraft:red_dye"
+    ],
+    "T": [
+      "minecraft:ghast_tear"
+    ]
+  },
+  "result": {
+    "id": "minecraft:music_disc_11",
+    "components": {
+      "minecraft:item_model": "dd_discs:they_stare_back",
+      "minecraft:jukebox_playable": "dd_discs_data:they_stare_back"
+    },
+    "count": 1
+  }
+}

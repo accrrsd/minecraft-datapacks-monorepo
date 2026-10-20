@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:potion",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "half_heart_item": "shard"
+                },
+                "minecraft:potion_contents": {
+                  "custom_color": 16733695
+                },
+                "minecraft:item_name": "{\"text\":\"Осколок Сердца\",\"color\":\"light_purple\",\"bold\":true}",
+                "minecraft:lore": [
+                  "{\"text\":\"Дарует +1 сердце навсегда (+2 HP)\",\"color\":\"gold\"}",
+                  "{\"text\":\"Увеличивает максимальный лимит здоровья!\",\"color\":\"yellow\",\"italic\":true}"
+                ]
+              }
+            },
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 5,
+                "max": 10
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

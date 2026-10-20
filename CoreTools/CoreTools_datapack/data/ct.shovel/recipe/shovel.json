@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "DHD",
+    "DSD",
+    " S "
+  ],
+  "key": {
+    "D": "minecraft:diamond",
+    "H": "minecraft:heavy_core",
+    "S": "minecraft:breeze_rod"
+  },
+  "result": {
+    "id": "minecraft:diamond_shovel",
+    "count": 1,
+    "components": {
+      "minecraft:item_name": {"translate": "item.ct.shovel"},
+      "minecraft:rarity": "epic",
+      "minecraft:item_model": "ct:shovel",
+      "minecraft:max_damage": 500,
+      "minecraft:custom_data": {"ct":{"id":"shovel"}}
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "criteria": {
+    "consume_shard": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "minecraft:potion",
+          "predicates": {
+            "minecraft:custom_data": {
+              "half_heart_item": "shard"
+            }
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "half_heart:use_shard"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "AH ",
+    "AS ",
+    " S "
+  ],
+  "key": {
+    "A": "minecraft:diamond_block",
+    "H": "minecraft:heavy_core",
+    "S": "minecraft:breeze_rod"
+  },
+  "result": {
+    "id": "minecraft:diamond_axe",
+    "count": 1,
+    "components": {
+      "minecraft:item_name": {"translate": "item.ct.axe"},
+      "minecraft:rarity": "epic",
+      "minecraft:item_model": "ct:axe",
+      "minecraft:max_damage": 500,
+      "minecraft:custom_data": {"ct":{"id":"axe"}}
+    }
+  }
+}

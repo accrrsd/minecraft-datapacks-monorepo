@@ -1,0 +1,40 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:diamond_shovel",
+      "components": {
+        "minecraft:item_model": "ct:shovel",
+        "minecraft:custom_data": {"ct":{"id":"shovel"}}
+      }
+    },
+    "title": {
+      "translate": "advancements.ct.shovel.title"
+    },
+    "description": {
+      "translate": "advancements.ct.shovel.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "minecraft:adventure/minecraft_trials_edition",
+  "criteria": {
+    "has_shovel": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "predicates": {
+              "minecraft:custom_data": {
+                "ct": {
+                  "id": "shovel"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

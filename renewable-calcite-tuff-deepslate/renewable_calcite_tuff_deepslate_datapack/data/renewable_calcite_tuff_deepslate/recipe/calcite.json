@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "pattern": [
+        "bbb",
+        "bBb",
+        "bbb"
+    ],
+    "key": {
+        "B": [
+            "minecraft:water_bucket"
+        ],
+        "b": [
+            "minecraft:bone_block"
+        ]
+    },
+    "result": {
+        "id": "minecraft:calcite",
+        "count": 8
+    }
+}

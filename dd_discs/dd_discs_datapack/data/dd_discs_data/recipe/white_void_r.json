@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "qLq",
+    "QPQ",
+    "QQQ"
+  ],
+  "key": {
+    "P": [
+      "minecraft:music_disc_11"
+    ],
+    "L": [
+      "minecraft:sea_lantern"
+    ],
+    "Q": [
+      "minecraft:quartz_block"
+    ],
+    "q": [
+      "minecraft:amethyst_shard"
+    ]
+  },
+  "result": {
+    "id": "minecraft:music_disc_11",
+    "components": {
+      "minecraft:item_model": "dd_discs:white_void",
+      "minecraft:jukebox_playable": "dd_discs_data:white_void"
+    },
+    "count": 1
+  }
+}

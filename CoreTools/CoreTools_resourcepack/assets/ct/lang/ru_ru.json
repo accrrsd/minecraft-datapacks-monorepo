@@ -1,0 +1,14 @@
+{
+  "item.ct.hammer": "Тяжёлая Кирка",
+  "item.ct.shovel": "Тяжёлая Лопата",
+  "item.ct.axe": "Тяжёлый Топор",
+  "item.ct.hoe": "Тяжёлая Мотыга",
+  "advancements.ct.hammer.title": "Гром и Камень",
+  "advancements.ct.hammer.description": "Скрафтите Тяжёлую Кирку для крушения камня и руд 3х3",
+  "advancements.ct.shovel.title": "Покоритель Недр",
+  "advancements.ct.shovel.description": "Скрафтите Тяжёлую Лопату для раскопок грунта 3х3",
+  "advancements.ct.axe.title": "Лесоруб",
+  "advancements.ct.axe.description": "Скрафтите Тяжёлый Топор для рубки и обтесывания дерева 3х3",
+  "advancements.ct.hoe.title": "Властелин Урожая",
+  "advancements.ct.hoe.description": "Скрафтите Тяжёлую Мотыгу для вспашки земли и автосбора урожая 3х3"
+}

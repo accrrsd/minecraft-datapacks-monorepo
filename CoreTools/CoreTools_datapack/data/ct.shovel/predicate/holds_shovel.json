@@ -1,0 +1,23 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "slots": {
+      "weapon.mainhand": {
+        "items": [
+          "minecraft:netherite_shovel",
+          "minecraft:diamond_shovel",
+          "minecraft:iron_shovel",
+          "minecraft:golden_shovel"
+        ],
+        "components": {
+          "minecraft:custom_data": {
+            "ct": {
+              "id": "shovel"
+            }
+          }
+        }
+      }
+    }
+  }
+}

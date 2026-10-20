@@ -1,0 +1,15 @@
+{
+  "pack": {
+    "description": "Dimension Doors discs datapack",
+    "pack_format": 121,
+    "min_format": [
+      121,
+      0
+    ],
+    "max_format": [
+      121,
+      0
+    ]
+  },
+  "id": "dd-discs"
+}

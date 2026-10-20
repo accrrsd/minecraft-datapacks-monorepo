@@ -1,0 +1,14 @@
+{
+  "item.ct.hammer": "Heavy Pickaxe",
+  "item.ct.shovel": "Heavy Shovel",
+  "item.ct.axe": "Heavy Axe",
+  "item.ct.hoe": "Heavy Hoe",
+  "advancements.ct.hammer.title": "Thunder & Stone",
+  "advancements.ct.hammer.description": "Craft a Heavy Pickaxe to mine stone and ores in a 3x3 area",
+  "advancements.ct.shovel.title": "Ground Breaker",
+  "advancements.ct.shovel.description": "Craft a Heavy Shovel to dig soil and sand in a 3x3 area",
+  "advancements.ct.axe.title": "Heavy Chopper",
+  "advancements.ct.axe.description": "Craft a Heavy Axe to chop wood and strip logs in a 3x3 area",
+  "advancements.ct.hoe.title": "Master of Harvest",
+  "advancements.ct.hoe.description": "Craft a Heavy Hoe to till soil and harvest crops 3x3"
+}

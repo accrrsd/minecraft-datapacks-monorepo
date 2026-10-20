@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "pattern": [
+        "bbb",
+        "bBb",
+        "bbb"
+    ],
+    "key": {
+        "B": [
+            "minecraft:water_bucket"
+        ],
+        "b": [
+            "minecraft:green_concrete_powder"
+        ]
+    },
+    "result": {
+        "id": "minecraft:green_concrete",
+        "count": 8
+    }
+}

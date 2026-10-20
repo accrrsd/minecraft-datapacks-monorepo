@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "half_heart:item/heart_shard"
+  }
+}

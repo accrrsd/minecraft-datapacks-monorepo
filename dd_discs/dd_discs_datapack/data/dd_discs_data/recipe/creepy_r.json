@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BHB",
+    "CPC",
+    "CCC"
+  ],
+  "key": {
+    "P": [
+      "minecraft:music_disc_11"
+    ],
+    "H": [
+      "minecraft:creeper_head"
+    ],
+    "B": [
+      "minecraft:blue_dye"
+    ],
+    "C": [
+      "minecraft:gray_concrete"
+    ]
+  },
+  "result": {
+    "id": "minecraft:music_disc_11",
+    "components": {
+      "minecraft:item_model": "dd_discs:creepy",
+      "minecraft:jukebox_playable": "dd_discs_data:creepy"
+    },
+    "count": 1
+  }
+}

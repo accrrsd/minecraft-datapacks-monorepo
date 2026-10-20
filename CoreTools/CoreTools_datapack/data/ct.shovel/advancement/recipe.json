@@ -1,0 +1,35 @@
+{
+  "criteria": {
+    "has_heavy_core": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:heavy_core"
+          }
+        ]
+      }
+    },
+    "has_diamond_tool": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:diamond_shovel"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_heavy_core",
+      "has_diamond_tool"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "ct.shovel:shovel"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:diamond_hoe",
+      "components": {
+        "minecraft:item_model": "ct:hoe",
+        "minecraft:custom_data": {"ct":{"id":"hoe"}}
+      }
+    },
+    "title": {
+      "translate": "advancements.ct.hoe.title"
+    },
+    "description": {
+      "translate": "advancements.ct.hoe.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "minecraft:adventure/minecraft_trials_edition",
+  "criteria": {
+    "has_hoe": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "predicates": {
+              "minecraft:custom_data": {
+                "ct": {
+                  "id": "hoe"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
