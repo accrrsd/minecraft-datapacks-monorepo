@@ -1,5 +1,6 @@
 {
     "type": "minecraft:crafting_shaped",
+    "show_notification": true,
     "category": "building",
     "pattern": [
         "mmm",
@@ -7,12 +8,12 @@
         "mmm"
     ],
     "key": {
-        "L": [
-            "minecraft:lava_bucket"
-        ],
-        "m": [
-            "minecraft:mud"
-        ]
+        "L": {
+            "item": "minecraft:lava_bucket"
+        },
+        "m": {
+            "item": "minecraft:mud"
+        }
     },
     "result": {
         "id": "minecraft:tuff",

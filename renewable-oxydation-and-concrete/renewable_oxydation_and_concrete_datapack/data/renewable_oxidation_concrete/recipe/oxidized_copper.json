@@ -1,5 +1,6 @@
 {
     "type": "minecraft:crafting_shaped",
+    "show_notification": true,
     "category": "building",
     "pattern": [
         "bbb",
@@ -7,12 +8,12 @@
         "bbb"
     ],
     "key": {
-        "B": [
-            "minecraft:water_bucket"
-        ],
-        "b": [
-            "minecraft:weathered_copper"
-        ]
+        "B": {
+            "item": "minecraft:water_bucket"
+        },
+        "b": {
+            "item": "minecraft:weathered_copper"
+        }
     },
     "result": {
         "id": "minecraft:oxidized_copper",

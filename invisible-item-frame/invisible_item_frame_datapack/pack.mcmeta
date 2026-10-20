@@ -1,15 +1,11 @@
 {
   "pack": {
-    "description": "Invisible Item Frame Crafting",
-    "pack_format": 121,
-    "min_format": [
-      121,
-      0
-    ],
-    "max_format": [
-      121,
-      0
-    ]
+    "pack_format": 71,
+    "supported_formats": {
+      "min_inclusive": 48,
+      "max_inclusive": 88
+    },
+    "description": "Invisible Item Frame Crafting"
   },
   "id": "invisible-item-frame"
 }

@@ -1,15 +1,11 @@
 {
   "pack": {
-    "description": "Half Heart on Death Resourcepack",
-    "pack_format": 97,
-    "min_format": [
-      97,
-      1
+    "pack_format": 46,
+    "supported_formats": [
+      34,
+      125
     ],
-    "max_format": [
-      97,
-      1
-    ]
+    "description": "Half Heart on Death Resourcepack"
   },
   "id": "half-heart-rp"
 }

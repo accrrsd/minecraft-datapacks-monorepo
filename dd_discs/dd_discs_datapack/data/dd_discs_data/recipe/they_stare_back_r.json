@@ -1,5 +1,7 @@
 {
   "type": "minecraft:crafting_shaped",
+  "show_notification": true,
+  "category": "misc",
   "pattern": [
     "RER",
     "CPC",
@@ -27,7 +29,6 @@
     "components": {
       "minecraft:item_model": "dd_discs:they_stare_back",
       "minecraft:jukebox_playable": "dd_discs_data:they_stare_back"
-    },
-    "count": 1
+    }
   }
 }

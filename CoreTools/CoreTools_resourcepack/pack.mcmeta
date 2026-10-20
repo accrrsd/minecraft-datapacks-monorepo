@@ -8,15 +8,11 @@
         }
       ]
     ],
-    "pack_format": 97,
-    "min_format": [
-      97,
-      1
-    ],
-    "max_format": [
-      97,
-      1
-    ]
+    "pack_format": 46,
+    "supported_formats": {
+      "min_inclusive": 46,
+      "max_inclusive": 999
+    }
   },
   "id": "core-tools-rp"
 }

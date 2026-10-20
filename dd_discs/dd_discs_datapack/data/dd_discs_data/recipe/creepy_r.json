@@ -1,5 +1,7 @@
 {
   "type": "minecraft:crafting_shaped",
+  "show_notification": true,
+  "category": "misc",
   "pattern": [
     "BHB",
     "CPC",
@@ -24,7 +26,6 @@
     "components": {
       "minecraft:item_model": "dd_discs:creepy",
       "minecraft:jukebox_playable": "dd_discs_data:creepy"
-    },
-    "count": 1
+    }
   }
 }

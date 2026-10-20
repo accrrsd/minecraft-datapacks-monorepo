@@ -1,15 +1,11 @@
 {
   "pack": {
-    "description": "Renewable: Sand and Gravel",
-    "pack_format": 121,
-    "min_format": [
-      121,
-      0
-    ],
-    "max_format": [
-      121,
-      0
-    ]
+    "pack_format": 71,
+    "supported_formats": {
+      "min_inclusive": 48,
+      "max_inclusive": 88
+    },
+    "description": "Renewable: Sand and Gravel"
   },
   "id": "renewable-sand-gravel"
 }

@@ -1,15 +1,11 @@
 {
   "pack": {
-    "description": "Half Heart on Death Datapack",
-    "pack_format": 121,
-    "min_format": [
-      121,
-      0
+    "pack_format": 71,
+    "supported_formats": [
+      34,
+      125
     ],
-    "max_format": [
-      121,
-      0
-    ]
+    "description": "Half Heart on Death Datapack"
   },
   "id": "half-heart"
 }

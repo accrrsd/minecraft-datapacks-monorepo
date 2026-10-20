@@ -1,5 +1,7 @@
 {
   "type": "minecraft:crafting_shaped",
+  "show_notification": true,
+  "category": "misc",
   "pattern": [
     "qLq",
     "QPQ",
@@ -24,7 +26,6 @@
     "components": {
       "minecraft:item_model": "dd_discs:white_void",
       "minecraft:jukebox_playable": "dd_discs_data:white_void"
-    },
-    "count": 1
+    }
   }
 }
