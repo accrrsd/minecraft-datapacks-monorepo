@@ -56,3 +56,8 @@ execute if block ~ ~ ~ minecraft:warped_hyphae run setblock ~ ~ ~ minecraft:stri
 execute if block ~ ~ ~ minecraft:bamboo_block[axis=y] run setblock ~ ~ ~ minecraft:stripped_bamboo_block[axis=y] replace
 execute if block ~ ~ ~ minecraft:bamboo_block[axis=x] run setblock ~ ~ ~ minecraft:stripped_bamboo_block[axis=x] replace
 execute if block ~ ~ ~ minecraft:bamboo_block[axis=z] run setblock ~ ~ ~ minecraft:stripped_bamboo_block[axis=z] replace
+
+execute if block ~ ~ ~ minecraft:poplar_log[axis=y] run setblock ~ ~ ~ minecraft:stripped_poplar_log[axis=y] replace
+execute if block ~ ~ ~ minecraft:poplar_log[axis=x] run setblock ~ ~ ~ minecraft:stripped_poplar_log[axis=x] replace
+execute if block ~ ~ ~ minecraft:poplar_log[axis=z] run setblock ~ ~ ~ minecraft:stripped_poplar_log[axis=z] replace
+execute if block ~ ~ ~ minecraft:poplar_wood run setblock ~ ~ ~ minecraft:stripped_poplar_wood replace

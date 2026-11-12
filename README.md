@@ -1,14 +1,11 @@
-# Minecraft Datapacks Monorepo — Version 26+
+# Minecraft Datapacks Monorepo — Version 26.3
 
-This branch contains datapacks and resourcepacks formatted for **Minecraft 26+** (Data Pack format `121`, Resource Pack format `97`).
+This branch contains datapacks that required specific changes for **Minecraft 26.3** (Data Pack format `121`, Resource Pack format `97`).
+
+Datapacks whose structure has not changed compared to version 26+ are maintained on the [`26+`](https://github.com/accrrsd/minecraft-datapacks-monorepo/tree/26+) branch.
 
 ## Included Packs
 
 | Pack Directory | Datapack Folder | Resourcepack Folder | Description |
 | :--- | :--- | :--- | :--- |
-| `CoreTools/` | `CoreTools_datapack` | `CoreTools_resourcepack` | 3x3 Mining and harvesting tools (Hammer, Axe, Excavator, Hoe) |
-| `dd_discs/` | `dd_discs_datapack` | `dd_discs_resourcepack` | Dimensional Doors custom music discs |
-| `invisible-item-frame/` | `invisible_item_frame_datapack` | — | Invisible Item Frame crafting recipes |
-| `renewable-calcite-tuff-deepslate/` | `renewable_calcite_tuff_deepslate_datapack` | — | Renewable recipes for Calcite, Tuff, and Deepslate |
-| `renewable-oxydation-and-concrete/` | `renewable_oxydation_and_concrete_datapack` | — | Renewable recipes for Copper oxidation states and Concrete |
-| `renewable-sand-gravel/` | `renewable_sand_gravel_datapack` | — | Renewable recipes for Sand and Gravel |
+| `CoreTools/` | `CoreTools_datapack` | `CoreTools_resourcepack` | 3x3 Mining and harvesting tools (Updated for 26.3 with Poplar wood set support) |
