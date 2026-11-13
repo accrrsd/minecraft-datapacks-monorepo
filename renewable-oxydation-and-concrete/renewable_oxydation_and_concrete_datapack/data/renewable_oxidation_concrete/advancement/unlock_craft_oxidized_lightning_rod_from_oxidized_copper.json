@@ -1,0 +1,34 @@
+{
+  "criteria": {
+    "has_items": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:oxidized_copper",
+              "minecraft:oxidized_lightning_rod"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "renewable_oxidation_concrete:craft_oxidized_lightning_rod_from_oxidized_copper"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_items",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "renewable_oxidation_concrete:craft_oxidized_lightning_rod_from_oxidized_copper"
+    ]
+  }
+}

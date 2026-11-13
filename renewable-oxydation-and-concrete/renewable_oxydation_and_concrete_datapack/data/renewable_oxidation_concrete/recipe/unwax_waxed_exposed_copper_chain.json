@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    [
+      "minecraft:waxed_exposed_copper_chain"
+    ],
+    [
+      "minecraft:iron_nugget"
+    ]
+  ],
+  "result": {
+    "id": "minecraft:exposed_copper_chain",
+    "count": 1
+  }
+}

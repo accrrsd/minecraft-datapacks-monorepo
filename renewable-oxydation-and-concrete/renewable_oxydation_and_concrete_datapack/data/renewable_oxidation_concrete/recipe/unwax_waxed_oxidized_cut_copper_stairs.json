@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    [
+      "minecraft:waxed_oxidized_cut_copper_stairs"
+    ],
+    [
+      "minecraft:iron_nugget"
+    ]
+  ],
+  "result": {
+    "id": "minecraft:oxidized_cut_copper_stairs",
+    "count": 1
+  }
+}

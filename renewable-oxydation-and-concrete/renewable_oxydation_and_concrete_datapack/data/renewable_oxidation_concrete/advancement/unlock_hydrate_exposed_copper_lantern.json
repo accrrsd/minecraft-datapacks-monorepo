@@ -1,0 +1,35 @@
+{
+  "criteria": {
+    "has_items": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:copper_lantern",
+              "minecraft:water_bucket",
+              "minecraft:exposed_copper_lantern"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "renewable_oxidation_concrete:hydrate_exposed_copper_lantern"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_items",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "renewable_oxidation_concrete:hydrate_exposed_copper_lantern"
+    ]
+  }
+}

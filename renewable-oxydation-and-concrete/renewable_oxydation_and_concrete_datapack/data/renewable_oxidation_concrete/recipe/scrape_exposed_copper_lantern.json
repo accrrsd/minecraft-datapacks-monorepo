@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    [
+      "minecraft:exposed_copper_lantern"
+    ],
+    [
+      "minecraft:iron_nugget"
+    ]
+  ],
+  "result": {
+    "id": "minecraft:copper_lantern",
+    "count": 1
+  }
+}

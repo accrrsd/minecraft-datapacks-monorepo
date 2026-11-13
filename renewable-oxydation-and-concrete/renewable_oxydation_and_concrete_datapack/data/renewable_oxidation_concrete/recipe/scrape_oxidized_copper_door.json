@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    [
+      "minecraft:oxidized_copper_door"
+    ],
+    [
+      "minecraft:iron_nugget"
+    ]
+  ],
+  "result": {
+    "id": "minecraft:weathered_copper_door",
+    "count": 1
+  }
+}

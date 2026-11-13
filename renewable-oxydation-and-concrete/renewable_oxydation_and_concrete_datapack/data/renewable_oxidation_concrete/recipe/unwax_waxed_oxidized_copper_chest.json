@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    [
+      "minecraft:waxed_oxidized_copper_chest"
+    ],
+    [
+      "minecraft:iron_nugget"
+    ]
+  ],
+  "result": {
+    "id": "minecraft:oxidized_copper_chest",
+    "count": 1
+  }
+}

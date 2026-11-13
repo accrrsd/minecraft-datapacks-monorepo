@@ -1,0 +1,35 @@
+{
+  "criteria": {
+    "has_items": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:weathered_copper_golem_statue",
+              "minecraft:water_bucket",
+              "minecraft:oxidized_copper_golem_statue"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "renewable_oxidation_concrete:hydrate_oxidized_copper_golem_statue"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_items",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "renewable_oxidation_concrete:hydrate_oxidized_copper_golem_statue"
+    ]
+  }
+}

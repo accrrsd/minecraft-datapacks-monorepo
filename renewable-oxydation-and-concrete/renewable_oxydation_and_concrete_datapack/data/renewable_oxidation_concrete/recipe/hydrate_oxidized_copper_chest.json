@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "bbb",
+    "bBb",
+    "bbb"
+  ],
+  "key": {
+    "B": [
+      "minecraft:water_bucket"
+    ],
+    "b": [
+      "minecraft:weathered_copper_chest"
+    ]
+  },
+  "result": {
+    "id": "minecraft:oxidized_copper_chest",
+    "count": 8
+  }
+}

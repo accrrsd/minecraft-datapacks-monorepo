@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "bbb",
+    "bBb",
+    "bbb"
+  ],
+  "key": {
+    "B": [
+      "minecraft:water_bucket"
+    ],
+    "b": [
+      "minecraft:weathered_chiseled_copper"
+    ]
+  },
+  "result": {
+    "id": "minecraft:oxidized_chiseled_copper",
+    "count": 8
+  }
+}

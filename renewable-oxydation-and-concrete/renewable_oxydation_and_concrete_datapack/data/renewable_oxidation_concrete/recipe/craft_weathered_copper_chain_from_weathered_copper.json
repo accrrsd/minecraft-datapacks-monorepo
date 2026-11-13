@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "n",
+    "b",
+    "n"
+  ],
+  "key": {
+    "b": [
+      "minecraft:weathered_copper"
+    ],
+    "n": [
+      "minecraft:iron_nugget"
+    ]
+  },
+  "result": {
+    "id": "minecraft:weathered_copper_chain",
+    "count": 9
+  }
+}

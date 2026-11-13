@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "bbb",
+    "bBb",
+    "bbb"
+  ],
+  "key": {
+    "B": [
+      "minecraft:water_bucket"
+    ],
+    "b": [
+      "minecraft:lightning_rod"
+    ]
+  },
+  "result": {
+    "id": "minecraft:exposed_lightning_rod",
+    "count": 8
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "bbb",
+    "bCb",
+    "bbb"
+  ],
+  "key": {
+    "b": [
+      "minecraft:copper_block"
+    ],
+    "C": [
+      "minecraft:chest"
+    ]
+  },
+  "result": {
+    "id": "minecraft:copper_chest",
+    "count": 1
+  }
+}

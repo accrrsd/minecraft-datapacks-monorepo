@@ -1,0 +1,35 @@
+{
+  "criteria": {
+    "has_items": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:oxidized_copper_door",
+              "minecraft:iron_nugget",
+              "minecraft:weathered_copper_door"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "renewable_oxidation_concrete:scrape_oxidized_copper_door"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_items",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "renewable_oxidation_concrete:scrape_oxidized_copper_door"
+    ]
+  }
+}

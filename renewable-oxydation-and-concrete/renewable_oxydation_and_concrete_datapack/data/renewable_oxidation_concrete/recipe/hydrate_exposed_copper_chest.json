@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "bbb",
+    "bBb",
+    "bbb"
+  ],
+  "key": {
+    "B": [
+      "minecraft:water_bucket"
+    ],
+    "b": [
+      "minecraft:copper_chest"
+    ]
+  },
+  "result": {
+    "id": "minecraft:exposed_copper_chest",
+    "count": 8
+  }
+}

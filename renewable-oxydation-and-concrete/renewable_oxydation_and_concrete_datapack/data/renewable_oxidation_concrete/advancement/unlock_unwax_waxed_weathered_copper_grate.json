@@ -1,0 +1,35 @@
+{
+  "criteria": {
+    "has_items": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:waxed_weathered_copper_grate",
+              "minecraft:iron_nugget",
+              "minecraft:weathered_copper_grate"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "renewable_oxidation_concrete:unwax_waxed_weathered_copper_grate"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_items",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "renewable_oxidation_concrete:unwax_waxed_weathered_copper_grate"
+    ]
+  }
+}

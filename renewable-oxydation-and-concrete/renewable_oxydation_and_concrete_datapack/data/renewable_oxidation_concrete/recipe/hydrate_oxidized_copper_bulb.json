@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "bbb",
+    "bBb",
+    "bbb"
+  ],
+  "key": {
+    "B": [
+      "minecraft:water_bucket"
+    ],
+    "b": [
+      "minecraft:weathered_copper_bulb"
+    ]
+  },
+  "result": {
+    "id": "minecraft:oxidized_copper_bulb",
+    "count": 8
+  }
+}

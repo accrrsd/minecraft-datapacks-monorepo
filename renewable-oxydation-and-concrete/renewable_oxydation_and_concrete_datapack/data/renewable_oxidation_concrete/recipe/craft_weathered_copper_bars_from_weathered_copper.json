@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "bbb",
+    "bbb"
+  ],
+  "key": {
+    "b": [
+      "minecraft:weathered_copper"
+    ]
+  },
+  "result": {
+    "id": "minecraft:weathered_copper_bars",
+    "count": 64
+  }
+}
